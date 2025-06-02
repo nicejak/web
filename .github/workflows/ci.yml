@@ -2,7 +2,7 @@ name: alan-personal # (1)!
 on:
   push:
     branches:
-      - alan-material-mkdocs # (2)!
+      - master # (2)!
       - main
 permissions:
   contents: write
