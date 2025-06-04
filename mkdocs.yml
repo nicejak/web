@@ -29,17 +29,16 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
-  theme:
-    features:
-      - navigation.prune
-      - navigation.tabs
-      - navigation.sections
-      - navigation.expand
-      - navigation.path
-      - toc.integrate
-      - navigation.top
-      - search.suggest
-      - search.highlight
+  features:
+    - navigation.prune
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
 
 markdown_extensions:
   - attr_list
