@@ -1,1 +1,49 @@
-site_name: My Docs
+site_name: Alan Tong's Website
+site_url: https://justanotherweaboo.net/
+theme:
+  name: material
+  font:
+    code: Atkinson Hyperlegible
+  logo: images/logo.png
+  favicon: images/logo.png
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: light green
+      accent: lime
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: brown
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  theme:
+    features:
+      - navigation.prune
+      - navigation.tabs
+      - navigation.sections
+      - navigation.expand
+      - navigation.path
+      - toc.integrate
+      - navigation.top
+      - search.suggest
+      - search.highlight
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+plugins:
+  - glightbox
