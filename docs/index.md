@@ -21,6 +21,7 @@ Office: Keller Hall 319, Hawaii Centre for Research and Excellence in Applied Ma
 ## Current Projects
 My current projects are
 
+* My disseration on hybrid control systems and singular controls.
 * Establishing [HCREAM](https://hcream.org) as a non-profit entity that benefits Hawai'i.
 * As part of HCREAM, research a method to improve bus transportation by simply moving bus stops.
 
