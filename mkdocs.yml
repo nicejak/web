@@ -39,12 +39,15 @@ theme:
     - navigation.top
     - search.suggest
     - search.highlight
+  icon:
+    annotation: material/record-circle
 
 markdown_extensions:
   - abbr
   - attr_list
   - md_in_html
   - pymdownx.snippets
+  - pymdownx.superfences
 
 plugins:
   - glightbox

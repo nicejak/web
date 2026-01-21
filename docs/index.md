@@ -6,12 +6,19 @@ hide:
 
 # Alan Tong (he/him)
 ![me](images/alan.jpg){ align=right , width="120"}
+
 Transportation planner at the Oahu Metropolitan Planning Organization
+
 PhD student at the University of Hawaiʻi at Mānoa
 
+***
+
 atalantong@gmail.com
+
 Oahu Metropolitan Planning Organization
+
 707 Richards Street, Suite 200
+
 Honolulu, Hawaii 96813
 
 ***

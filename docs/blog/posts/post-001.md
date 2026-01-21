@@ -18,6 +18,7 @@ If I had to rank the hierarchy of people in my life, it would go:
 3. My friends
 4. My significant other
 
-It's a shame, but I think doing it like this creates the healthiest relationships. It is a shame though: friends are so disposable.
+It's a shame, but I think doing it like this creates the healthiest relationships. It is a shame though: (1) friends are so disposable.
+{ .annotate }
 
-* [friends]: You may forget about me, but I remember you
+1.  You may forget about me, but I remember you
