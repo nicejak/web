@@ -10,5 +10,4 @@ hide:
 * [Radarr](https://radarr.justanotherweaboo.net)
 
 ## Socials
-* [PixelFed](https://pixelfed.social/pomfegranate)
-* [Mastodon](https://ohai.social/@pomfegranate)
+* Hidden :3
